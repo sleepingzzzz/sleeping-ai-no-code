@@ -56,3 +56,4 @@ import GlobalFooter from '@/components/GlobalFooter.vue'
   }
 }
 </style>
+
