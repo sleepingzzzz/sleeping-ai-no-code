@@ -7,7 +7,7 @@ import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.spring.service.impl.ServiceImpl;
 import com.sleeping.sleepingainocode.exception.BusinessException;
 import com.sleeping.sleepingainocode.exception.ErrorCode;
-import com.sleeping.sleepingainocode.model.dto.UserQueryRequest;
+import com.sleeping.sleepingainocode.model.dto.user.UserQueryRequest;
 import com.sleeping.sleepingainocode.model.entity.User;
 import com.sleeping.sleepingainocode.mapper.UserMapper;
 import com.sleeping.sleepingainocode.model.enums.UserRoleEnum;

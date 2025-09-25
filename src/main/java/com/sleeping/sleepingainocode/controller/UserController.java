@@ -10,7 +10,7 @@ import com.sleeping.sleepingainocode.constant.UserConstant;
 import com.sleeping.sleepingainocode.exception.BusinessException;
 import com.sleeping.sleepingainocode.exception.ErrorCode;
 import com.sleeping.sleepingainocode.exception.ThrowUtils;
-import com.sleeping.sleepingainocode.model.dto.*;
+import com.sleeping.sleepingainocode.model.dto.user.*;
 import com.sleeping.sleepingainocode.model.entity.User;
 import com.sleeping.sleepingainocode.model.vo.LoginUserVO;
 import com.sleeping.sleepingainocode.model.vo.UserVO;

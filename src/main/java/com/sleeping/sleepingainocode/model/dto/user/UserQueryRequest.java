@@ -1,4 +1,4 @@
-package com.sleeping.sleepingainocode.model.dto;
+package com.sleeping.sleepingainocode.model.dto.user;
 
 import com.sleeping.sleepingainocode.common.PageRequest;
 import lombok.Data;

@@ -2,7 +2,7 @@ package com.sleeping.sleepingainocode.service;
 
 import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.core.service.IService;
-import com.sleeping.sleepingainocode.model.dto.UserQueryRequest;
+import com.sleeping.sleepingainocode.model.dto.user.UserQueryRequest;
 import com.sleeping.sleepingainocode.model.entity.User;
 import com.sleeping.sleepingainocode.model.vo.LoginUserVO;
 import com.sleeping.sleepingainocode.model.vo.UserVO;
